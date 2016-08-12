@@ -51,7 +51,7 @@ namespace Translator
             int salt=random.Next(0,10001);
             WebClient client = new WebClient();
             string beifanyi = textBox1.Text.ToString();//要翻译的句子
-            string sign=md5("20160612000023173"+beifanyi+salt.ToString()+"7BrrqN7DVrEQbLXFPcXo");
+            string sign=md5("123456789"+beifanyi+salt.ToString()+"123456789");//这里使用自己申请的百度秘钥
             string sign1 = sign.ToLower();
             if (!string.IsNullOrEmpty(beifanyi))
             {
