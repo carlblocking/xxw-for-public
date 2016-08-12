@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/8/7 11:19:06。
+     1>项目“E:\我的工程\算法\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\我的工程\算法\ConsoleApplication4\Release\ConsoleApplication4.exe" /INCREMENTAL:NO /NOLOGO opencv_ml2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\我的工程\算法\ConsoleApplication4\Release\ConsoleApplication4.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\我的工程\算法\ConsoleApplication4\Release\ConsoleApplication4.lib" /MACHINE:X86 /SAFESEH "Release\源.obj"
+         正在生成代码
+         132 of 183 functions (72.1%) were compiled, the rest were copied from previous compilation.
+           126 functions were new in current compilation
+           8 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         ConsoleApplication4.vcxproj -> E:\我的工程\算法\ConsoleApplication4\Release\ConsoleApplication4.exe
+     1>已完成生成项目“E:\我的工程\算法\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.74
