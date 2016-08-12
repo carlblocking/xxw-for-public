@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">工作地点</Data></Cell>
+			<Cell><Data ss:Type="String">统计</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">上海</Data></Cell>
+			<Cell><Data ss:Type="String">228</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">中山</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">佛山</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">北京</Data></Cell>
+			<Cell><Data ss:Type="String">364</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">南京</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">南宁</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">厦门</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">合肥</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">孝感</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">广州</Data></Cell>
+			<Cell><Data ss:Type="String">119</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">成都</Data></Cell>
+			<Cell><Data ss:Type="String">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">昆明</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">杭州</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">武汉</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">沈阳</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">泉州</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">济南</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">海口</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">深圳</Data></Cell>
+			<Cell><Data ss:Type="String">135</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">珠海</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">福州</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">苏州</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">西安</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">郑州</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">重庆</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">长沙</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">青岛</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

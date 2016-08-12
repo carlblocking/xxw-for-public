@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">工作地点</Data></Cell>
+			<Cell><Data ss:Type="String">统计</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">A轮</Data></Cell>
+			<Cell><Data ss:Type="String">125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B轮</Data></Cell>
+			<Cell><Data ss:Type="String">44</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C轮</Data></Cell>
+			<Cell><Data ss:Type="String">106</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D轮及以上</Data></Cell>
+			<Cell><Data ss:Type="String">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">上市公司</Data></Cell>
+			<Cell><Data ss:Type="String">133</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">不需要融资</Data></Cell>
+			<Cell><Data ss:Type="String">295</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">天使轮</Data></Cell>
+			<Cell><Data ss:Type="String">146</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">未融资</Data></Cell>
+			<Cell><Data ss:Type="String">242</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
