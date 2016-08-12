@@ -1,0 +1,11 @@
+E:\我的工程\Translator\Translator\bin\Release\Translator.exe
+E:\我的工程\Translator\Translator\bin\Release\Translator.pdb
+E:\我的工程\Translator\Translator\bin\Release\Newtonsoft.Json.dll
+E:\我的工程\Translator\Translator\bin\Release\Newtonsoft.Json.xml
+E:\我的工程\Translator\Translator\obj\Release\Translator.csprojResolveAssemblyReference.cache
+E:\我的工程\Translator\Translator\obj\Release\Translator.AboutBox1.resources
+E:\我的工程\Translator\Translator\obj\Release\Translator.Form1.resources
+E:\我的工程\Translator\Translator\obj\Release\Translator.Properties.Resources.resources
+E:\我的工程\Translator\Translator\obj\Release\Translator.csproj.GenerateResource.Cache
+E:\我的工程\Translator\Translator\obj\Release\Translator.exe
+E:\我的工程\Translator\Translator\obj\Release\Translator.pdb
