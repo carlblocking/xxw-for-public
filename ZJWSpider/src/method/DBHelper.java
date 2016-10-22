@@ -6,12 +6,12 @@ import java.sql.SQLException;
 
 public class DBHelper {
 	private String mySqlUrl="jdbc:mysql://localhost:3306/zhongjiwei?useUnicode=true&characterEncoding=UTF-8";
-	private String username = "root";
-	private String password = "xxw199423";
+	private String username = "****";
+	private String password = "*************";
 	private Connection connection;
 	public Connection getConnection(){
 		try {
-			Class.forName("com.mysql.jdbc.Driver");//¼ÓÔØÇý¶¯Àà(×¢²áÇý¶¯Àà)
+			Class.forName("com.mysql.jdbc.Driver");//Â¼Ã“Ã”Ã˜Ã‡Ã½Â¶Â¯Ã€Ã (Ã—Â¢Â²Ã¡Ã‡Ã½Â¶Â¯Ã€Ã )
 			connection= DriverManager.getConnection(mySqlUrl, username, password);
 			return connection;
 		} catch (ClassNotFoundException e) {
